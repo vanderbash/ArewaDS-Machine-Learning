@@ -4,7 +4,8 @@ In this first assignment, we ask you to think about some real-life process or pr
 
 1. Which data can you collect?
 1. How would you collect it?
-1. How would you store the data? How large the data is likely to be?
+1. How would you store the data?
+1. How large the data is likely to be?
 1. Which insights you might be able to get from this data? Which decisions we would be able to take based on the data?
 
 Try to think about 3 different problems/processes and describe each of the points above for each problem domain.
